@@ -1,0 +1,9 @@
+pydantic
+pytest
+Flask
+click
+requests
+pandas
+Jinja2
+Werkzeug
+openpyxl
