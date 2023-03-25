@@ -7,3 +7,4 @@ pandas
 Jinja2
 Werkzeug
 openpyxl
+Gunicorn
